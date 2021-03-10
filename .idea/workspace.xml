@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6dcc4d1-04a8-42b0-8018-93f8a3c74884" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="314" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1p1JGbTa53ocEoGrVP4jwbmzzTF" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/main/mutants" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Univ\tvproject\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="main.mutants" />
+      <recent name="main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.mutants" />
+      <recent name="main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Univ\tvproject\src\main\java\main\mutants" />
+      <recent name="C:\Univ\tvproject\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Problem_solve_ROR_39_Test">
+    <configuration name="ProblemTest.boundaryAnalysisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tvproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.ProblemTest" />
+      <option name="METHOD_NAME" value="boundaryAnalysisTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemTest.causeEffectGraph" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="tvproject" />
+      <extension name="coverage" runner="jacoco">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.ProblemTest" />
+      <option name="METHOD_NAME" value="causeEffectGraph" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_mirror_AOIS_59_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tvproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.mutants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.mutants" />
+      <option name="MAIN_CLASS_NAME" value="main.mutants.Problem_mirror_AOIS_59_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_mirror_AOIS_67_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tvproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.mutants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.mutants" />
+      <option name="MAIN_CLASS_NAME" value="main.mutants.Problem_mirror_AOIS_67_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_solve_ROR_32_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tvproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.mutants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.mutants" />
+      <option name="MAIN_CLASS_NAME" value="main.mutants.Problem_solve_ROR_32_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_solve_ROR_39_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tvproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.mutants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.mutants" />
+      <option name="MAIN_CLASS_NAME" value="main.mutants.Problem_solve_ROR_39_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ProblemTest.causeEffectGraph" />
+      <item itemvalue="JUnit.ProblemTest.boundaryAnalysisTest" />
+      <item itemvalue="JUnit.Problem_mirror_AOIS_59_Test" />
+      <item itemvalue="JUnit.Problem_mirror_AOIS_67_Test" />
+      <item itemvalue="JUnit.Problem_solve_ROR_32_Test" />
+      <item itemvalue="JUnit.Problem_solve_ROR_39_Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Problem_solve_ROR_39_Test" />
+        <item itemvalue="JUnit.Problem_solve_ROR_32_Test" />
+        <item itemvalue="JUnit.Problem_mirror_AOIS_67_Test" />
+        <item itemvalue="JUnit.Problem_mirror_AOIS_59_Test" />
+        <item itemvalue="JUnit.ProblemTest.boundaryAnalysisTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6dcc4d1-04a8-42b0-8018-93f8a3c74884" name="Default Changelist" comment="" />
+      <created>1614344567687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614344567687</updated>
+      <workItem from="1614344569248" duration="17171000" />
+      <workItem from="1614709784835" duration="3950000" />
+      <workItem from="1614871510741" duration="422000" />
+      <workItem from="1614961912849" duration="15444000" />
+      <workItem from="1615216163929" duration="94000" />
+      <workItem from="1615358523324" duration="2152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tvproject$ProblemTest_causeEffectGraph.ic" NAME="ProblemTest.causeEffectGraph Coverage Results" MODIFIED="1615134654804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tvproject$ProblemTest_causeEffectGraph.exec" NAME="ProblemTest.causeEffectGraph Coverage Results" MODIFIED="1615360056910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tvproject$ProblemTest_equivalencePartitionTest.ic" NAME="ProblemTest.equivalencePartitionTest Coverage Results" MODIFIED="1615359990244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tvproject$ProblemTest_boundaryAnalysisTest.ic" NAME="ProblemTest.boundaryAnalysisTest Coverage Results" MODIFIED="1615360025962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tvproject$All_in_tvproject.exec" NAME="All in tvproject Coverage Results" MODIFIED="1614712453435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/tvproject$ProblemTest.exec" NAME="ProblemTest Coverage Results" MODIFIED="1614712258752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tvproject$All_in_tvproject.ic" NAME="All in tvproject Coverage Results" MODIFIED="1614712363698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
